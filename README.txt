@@ -9,3 +9,7 @@ developers, or email crashcoders6@gmail.com
 
 site url
 #https://nextgoods.netlify.app
+
+or 
+
+#https://nextgoods.online
